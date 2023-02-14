@@ -1,3 +1,6 @@
+$("#owl-demo").owlCarousel({
+  navigation: true,
+});
 $(".one-carousel").owlCarousel({
   loop: true,
   margin: 10,
